@@ -1,3 +1,3 @@
 # cs-blackjack
 
-Live demo: https://repl.it/@quiyetbrul/cd-blackjack
+Live demo: https://repl.it/@quiyetbrul/cs-blackjack
